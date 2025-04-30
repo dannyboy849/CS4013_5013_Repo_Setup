@@ -2,6 +2,9 @@
 Howdy!
 <br>
 
+Congratuations for making it all the way to the end of the semester! It was great working with all of you, and congratulations to those graduating! Or have a great summer to those who are close!
+<br>
+
 This will serve as a personal guide to creating a private repository for uploading your final project code and documention for CS4013/5013. Please let me know at dvargas88@ou.edu if you have any questions or concerns!
 
 ## Step 1: Sign In:
@@ -79,4 +82,4 @@ Go to the AI2025 repo and verify its uploading correctly
     <a href="https://github.com/AI2025-final-project-submission/ "/Team_#" ">Check your hard work!</a>
 </li>
 
-# Congrats, that's all there is to it! Good luck in the future, and it was a great semester working with all of you! Have a great summer!
+# Congrats, that's all there is to it! Good luck in the future! It was a great semester working with all of you, and have a great summer!
