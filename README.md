@@ -76,7 +76,7 @@ git push AI2025 main # or `master` # depending on your branch name
 Go to the AI2025 repo and verify its uploading correctly
 :
 <li class="masthead__menu-item">
-    <a href="https://github.com/AI2025-final-project-submission/Team_# ">Check your hard work!</a>
+    <a href="https://github.com/AI2025-final-project-submission/ "/Team_#" ">Check your hard work!</a>
 </li>
 
 # Congrats, that's all there is to it! Good luck in the future, and it was a great semester working with all of you! Have a great summer!
